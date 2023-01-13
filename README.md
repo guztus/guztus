@@ -18,4 +18,4 @@
 <br><br>
 Reach me on Linkedin:
 <br>
-<a href="https://www.linkedin.com/in/gustavs-zubars/">![LinkedIn](assets/linkedin_wide.png)</a>
+<a href="https://www.linkedin.com/in/gustavs-zubars/">![LinkedIn](assets/linkedin.png)</a>
