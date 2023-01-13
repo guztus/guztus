@@ -1,7 +1,7 @@
 ### Hey! 👋
 ### I'm currently developing with:
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend:
-&nbsp; ![VueJs](assets/vuejs.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](assets/javascript.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![React](assets/react.png)
+&nbsp; ![VueJs](assets/vuejs.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](assets/javascript.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![React](assets/react.png)
 <br>
 <a>VueJs  |  JavaScript  |  React</a>
 
@@ -18,4 +18,4 @@
 <br><br>
 Reach me on Linkedin:
 <br>
-<a href="https://www.linkedin.com/in/gustavs-zubars/">![LinkedIn](assets/linkedin.png)</a>
+<a href="https://www.linkedin.com/in/gustavs-zubars/">![LinkedIn](assets/linkedin_wide.png)</a>
