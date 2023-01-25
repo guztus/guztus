@@ -1,9 +1,9 @@
 ### Hey! 👋
 ### I'm currently developing with:
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Frontend:
-&nbsp; ![VueJs](assets/vuejs.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](assets/javascript.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![React](assets/react.png)
+&nbsp; ![VueJs](assets/vuejs.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![JavaScript](assets/javascript.png)
 <br>
-<a>VueJs  |  JavaScript  |  React</a>
+<a>VueJs  |  JavaScript  </a>
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend:
 &nbsp;&nbsp;![PHP](assets/php.png) &nbsp;&nbsp;&nbsp; ![Laravel](assets/laravel.png) &nbsp;&nbsp;&nbsp;&nbsp; ![MySQL](assets/mysql.png)
