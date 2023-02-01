@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Gustavs Zubars, an aspiring full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Gustavs Zubars, an aspiring developer 👨‍💻</div>  
   
 
 - 🌱 I’m currently learning Vue.js  
