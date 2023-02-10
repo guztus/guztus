@@ -6,8 +6,7 @@
 ### <div align="center">I'm Gustavs Zubars, an aspiring developer 👨‍💻</div>  
   
 
-- 🌱 I’m currently learning Vue.js  
-- 🚀 Currently working on <a href=""></a>  
+- 🌱 I’m currently learning Vue.js 
 - ⚡ Fun fact: I've always loved tinkering with stuff to know exactly how it works  
   
 
