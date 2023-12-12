@@ -1,10 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="147.5" width="262" />
 </div>    
-<br/>  
 
-
-### My Skill Set  
+### My Tech Set  
 <div style="display:flex;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt='Laravel logo' width='50' height='50'></img>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt='PHP logo' width='50' height='50'></img>
