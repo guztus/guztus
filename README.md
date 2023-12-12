@@ -1,15 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="147.5" width="262" />
-</div>  
-  
-
-### <div align="center">I'm Gustavs Zubars, a passionate developer 👨‍💻</div>  
-  
-
-- 🌱 I’m currently learning Vue.js 
-- ⚡ Fun fact: I've always loved tinkering with stuff to know exactly how it works  
-  
-
+</div>    
 <br/>  
 
 
